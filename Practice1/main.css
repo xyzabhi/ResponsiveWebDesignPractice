@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: 48px;
+  margin-top: 45px;
+  text-align: center;
+  margin-bottom: 45px;
+  color: cornflowerblue;
+}
+
+.blog-post {
+  width: 550px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  background-color: #f1f1f1;
+}
+img {
+  max-width: 550px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  color: #104c90;
+  font-size: 32px;
+}
+p {
+  margin-bottom: 9px;
+  font-size: 16px;
+}
+a {
+  color: #ff8000;
+  font-weight: 900;
+}
